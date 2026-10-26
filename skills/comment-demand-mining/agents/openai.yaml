@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comment Demand Mining"
+  short_description: "Mine user demand, pain points and product/content ideas from social comment threads"
+  default_prompt: "Use $comment-demand-mining to find the demand and opportunities in this post and its comments."
